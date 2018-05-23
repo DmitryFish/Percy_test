@@ -1,2 +1,6 @@
 # best-repo-ever
-My changes 05/23/18 -BBBBBBBB
+<<<<<<< HEAD
+My changes 05/23/18
+=======
+My changes 05/23/18 - AAAAAAA
+>>>>>>> origin/master
